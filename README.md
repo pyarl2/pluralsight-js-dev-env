@@ -6,7 +6,6 @@ JavaScript Development Environment from Pluralsight Course with Cory House
 # stage all the files you change
 
     git add .
-    
 
 # commit your changes locally
 
@@ -15,5 +14,11 @@ JavaScript Development Environment from Pluralsight Course with Cory House
 # push your work to github
 
     git push
+    
+# npm tips
+
+#   reduces npm noise
+
+      npm start -s 
 
 
